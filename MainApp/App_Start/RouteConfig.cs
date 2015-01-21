@@ -18,7 +18,7 @@ namespace MainApp
                 name: "Default",
                 url: "{controller}/{action}/{id}",
                 defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional },
-                namespaces: new[] { "MainApp.Areas.Admin.Controllers.Home" }
+                namespaces: new[] { "MainApp.Controllers" }
             );
         }
     }
