@@ -6,6 +6,7 @@ using System.Web.Mvc;
 
 namespace HelloWorldPlugin.Controllers
 {
+    [Authorize(Roles = "Admin")]
     public class HelloWorldController : Controller
     {
         // GET: HelloWordl
