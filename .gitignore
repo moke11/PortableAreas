@@ -26,6 +26,7 @@ bld/
 MainApp/Areas/HelloWorld/
 MainApp/Areas/*.dll
 MainApp/Areas/*.config
+MainApp/Areas/*.xml
 
 # Roslyn cache directories
 *.ide/
