@@ -23,9 +23,9 @@ bld/
 [Oo]bj/
 
 #Aread add-ins
-Areas/HelloWorld/
-Areas/*.dll
-Areas/*.config
+MainApp/Areas/HelloWorld/
+MainApp/Areas/*.dll
+MainApp/Areas/*.config
 
 # Roslyn cache directories
 *.ide/
