@@ -22,6 +22,8 @@ bld/
 [Bb]in/
 [Oo]bj/
 Areas/HelloWorld/
+Areas/*.dll
+Areas/*.config
 
 # Roslyn cache directories
 *.ide/
