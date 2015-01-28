@@ -23,7 +23,7 @@ bld/
 [Oo]bj/
 
 #Aread add-ins
-MainApp/Areas/HelloWorld/
+MainApp/Areas/HelloWorldPlugin/
 MainApp/Areas/*.dll
 MainApp/Areas/*.config
 MainApp/Areas/*.xml
